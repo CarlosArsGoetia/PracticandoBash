@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 parameter=$1
 
 mkdir -p "$parameter"
